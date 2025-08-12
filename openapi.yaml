@@ -1,0 +1,14 @@
+openapi: 3.0.0
+info:
+  title: Single-File Safe SSRF Test
+  version: 1.0.0
+paths:
+  /test:
+    get:
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: 'https://webhook.site/9db8d9a5-b3b3-424d-a0d3-0e8d8e889432/ssrf-check'
