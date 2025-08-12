@@ -1,4 +1,4 @@
 type: object
 properties:
   check:
-    $ref: 'https://webhook.site/9db8d9a5-b3b3-424d-a0d3-0e8d8e889432/ssrf-check'
+    $ref: 'https://webhook.site/64657019-f211-4cc4-958e-95fe12971942/ssrf-check'
