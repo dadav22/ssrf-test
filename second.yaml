@@ -1,0 +1,4 @@
+type: object
+properties:
+  check:
+    $ref: 'https://<WEBHOOK_URL>/ssrf-check'
