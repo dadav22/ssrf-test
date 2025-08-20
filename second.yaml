@@ -1,4 +1,0 @@
-type: object
-properties:
-  check:
-    $ref: 'https://webhook.site/64657019-f211-4cc4-958e-95fe12971942/ssrf-check'
